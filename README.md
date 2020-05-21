@@ -5,6 +5,10 @@ use with caution, not everyone apreciates these!
 this is my collection some are found on the internet, some are created by myself
 
 as you might have seen, when you upgrade your zoom client (now version 5) you get the option to upload your own pictures or vdieo's.
+
+kudos to Airbnb for getting up with these btw 
+[airbnb zoom gallery](https://news.airbnb.com/inside-looking-out-10-views-to-transport-you-outdoors/)
+
 this video pictures you in the starwars spaceship
 [starwars movie](https://github.com/harvthe/zoombackgrounds/blob/master/Animated%20XWing%20Trench%20Run%20Cockpit%20for%20Zoom%20Shortest.mp4)
 

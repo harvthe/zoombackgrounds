@@ -1,7 +1,13 @@
 # zoombackgrounds
-collection of backgrounds 
+Collection of backgrounds to brighten up the zoom conference. 
+use with caution, not everyone apreciates these! 
 
 this is my collection some are found on the internet, some are created by myself
+
+as you might have seen, when you upgrade your zoom client (now version 5) you get the option to upload your own pictures or vdieo's.
+this video pictures you in the starwars spaceship
+[starwars movie](https://github.com/harvthe/zoombackgrounds/blob/master/Animated%20XWing%20Trench%20Run%20Cockpit%20for%20Zoom%20Shortest.mp4)
+
 
 for the end of the day, a nice sunset, thanks to martin for this great picture
 ![sunset with dog](94640156_10158518676792386_4867152137777315840_o.jpg)

@@ -16,9 +16,11 @@ for your weekly virtual Yoga! to keep the mind active and have some fun
 
 
 this was the best toilet paper background i could find
+
 ![toilet paper](final-toilet-paper-show-in-Uganda.jpg)
 
 or more toilet paper
+
 ![more toilet paper ](toiletzoom.png)
 
 if you want to pretend to do a zoom from prison
